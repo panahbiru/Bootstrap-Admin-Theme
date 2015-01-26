@@ -1,4 +1,4 @@
-Bootstrap Admin Theme [![Build Status](https://travis-ci.org/VinceG/Bootstrap-Admin-Theme.png?branch=master)](https://travis-ci.org/VinceG/Bootstrap-Admin-Theme)
+Cleanstrap 
 =====================
 
 ##### If you are looking for the Admin theme designed for Bootstrap 3 please <a href='https://github.com/VinceG/Bootstrap-Admin-Theme-3' target="_blank">Click Here</a>
